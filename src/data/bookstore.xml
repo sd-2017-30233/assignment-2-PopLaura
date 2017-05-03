@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><bookstore>
+    <book>
+        <title>Revolutia Franceza</title>
+        <author>Ana</author>
+        <year>19967</year>
+        <price>23.4</price>
+        <genre>istoric</genre>
+        <amount>3</amount>
+    </book>
+    <book>
+        <title>Gradina fiarelor</title>
+        <author>Jeffery Deaver</author>
+        <year>2012</year>
+        <price>49.9</price>
+        <genre>thriller</genre>
+        <genre>horror</genre>
+        <genre>istoric</genre>
+        <amount>10</amount>
+    </book>
+    <book>
+        <title>Femei</title>
+        <author>Charles Bukowski</author>
+        <year>1978</year>
+        <price>30.00</price>
+        <genre>bestseller</genre>
+        <genre>autobiography</genre>
+        <amount>5</amount>
+    </book>
+    <book>
+        <title>Copilaria</title>
+        <author>Maxim Gorki</author>
+        <year>1890</year>
+        <price>14.23</price>
+        <genre>classic</genre>
+        <genre>bestseller</genre>
+        <amount>1</amount>
+    </book>
+    <book>
+        <title>Frumoasele straine</title>
+        <author>Mircea Cartarescu</author>
+        <year>2010</year>
+        <price>50.00</price>
+        <genre>roman</genre>
+        <genre>autobiography</genre>
+        <amount>0</amount>
+    </book>
+    <book>
+        <title>a</title>
+        <author>a</author>
+        <year>1</year>
+        <price>1.0</price>
+        <genre>z</genre>
+        <amount>0</amount>
+    </book>
+</bookstore>

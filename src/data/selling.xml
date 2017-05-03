@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+--><sellings>
+    <selling>
+        <booktitle>Frumoasele straine</booktitle>
+        <useremail>andi@yahoo.com</useremail>
+        <amount>1</amount>
+        <date>2017/05/03 08:37:08</date>
+    </selling>
+    <selling>
+        <booktitle>Frumoasele straine</booktitle>
+        <useremail>andi@yahoo.com</useremail>
+        <amount>1</amount>
+        <date>2017/05/03 08:39:00</date>
+    </selling>
+<selling><booktitle>Copilaria</booktitle><useremail>a</useremail><amount>1</amount><date>2017/05/03 22:54:23</date></selling></sellings>
